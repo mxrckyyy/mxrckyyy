@@ -6,7 +6,7 @@ Aspring Web Developer
 Bulding modern, responsive and interactive web experience
 
 # 💫 About Me:
-About me<br><br>- Aspiring Web Developer<br>- Focus on HTML, CSS, Javascript & React<br>- Love building responsive and interactive user interfaces<br>- Currently 2nd Year BSIT Student<br>- Exploring modern web technologies
+<br><br>- Aspiring Web Developer<br>- Focus on HTML, CSS, Javascript & React<br>- Love building responsive and interactive user interfaces<br>- Currently 2nd Year BSIT Student<br>- Exploring modern web technologies
 
 
 ## 🌐 Socials:
